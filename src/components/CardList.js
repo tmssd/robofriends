@@ -1,13 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Card from './Card';
+// eslint-disable-next-line
 import ErrorBoundry from './ErrorBoundry';
 
 const CardList = ({ robots }) => {
-    /* this piece of code intended for invoking the ErrorBoundry Component(that is useful for productio environment) */
+    /* this piece of code intended for invoking the ErrorBoundry Component(that is useful for production environment) */
     // if (true) {
     //     throw new Error('NOOOOOO!')
     // }
-    
+
     return (
         <div>
             {
@@ -15,15 +16,14 @@ const CardList = ({ robots }) => {
                     return (
                         <Card
                             key={i}
-                            id={robots[i].id}
-                            name={robots[i].name}
-                            email={robots[i].email}
+                            id={user.id}
+                            name={user.name}
+                            email={user.email}
                         />
                     );
                 })
             }
         </div>
-
     );
 }
 

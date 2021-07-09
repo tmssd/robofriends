@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.0fd667e1.chunk.css",
-    "main.js": "/robofriends/static/js/main.ad166f11.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.ad166f11.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.11f8ad2e.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.11f8ad2e.js.map",
-    "static/css/2.c1f4f5f4.chunk.css": "/robofriends/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.db7782eb.chunk.js": "/robofriends/static/js/2.db7782eb.chunk.js",
-    "static/js/2.db7782eb.chunk.js.map": "/robofriends/static/js/2.db7782eb.chunk.js.map",
-    "static/js/3.91a0c869.chunk.js": "/robofriends/static/js/3.91a0c869.chunk.js",
-    "static/js/3.91a0c869.chunk.js.map": "/robofriends/static/js/3.91a0c869.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/2.c1f4f5f4.chunk.css.map": "/robofriends/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.0fd667e1.chunk.css.map": "/robofriends/static/css/main.0fd667e1.chunk.css.map",
-    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/robofriends/static/js/2.db7782eb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/css/main.355e3268.chunk.css",
+    "main.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/main.ad166f11.chunk.js",
+    "main.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/main.ad166f11.chunk.js.map",
+    "runtime-main.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/runtime-main.5c9b7c48.js",
+    "runtime-main.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/runtime-main.5c9b7c48.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/2.db7782eb.chunk.js",
+    "static/js/2.db7782eb.chunk.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/2.db7782eb.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.355e3268.chunk.css.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/css/main.355e3268.chunk.css.map",
+    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/js/2.db7782eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CRSE_Udemy_WebDev_ZTM2021_robofriends/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.11f8ad2e.js",
+    "static/js/runtime-main.5c9b7c48.js",
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.db7782eb.chunk.js",
-    "static/css/main.0fd667e1.chunk.css",
+    "static/css/main.355e3268.chunk.css",
     "static/js/main.ad166f11.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
-# robofriends
+# Robofriends
 
-## Tutorial for React
+### Simple React app implementing basic React concepts.
 
 To run the project:
 
